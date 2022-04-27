@@ -3917,9 +3917,9 @@ ul {
   .form {
     margin-top: 0;
   }
-  .form__title {
+  /*.form__title {
     display: none;
-  }
+  }*/
 }
 /*==============================
 	Footer
